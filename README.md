@@ -18,8 +18,13 @@ You are well qualified for doing research in AI/ML systems.
   - tl;dr: This lecture reviews course requirement, learning goals, policies, and expectations.
 - Lecture 2: Introduction to Machine Learning Systems (Uber Case Study)
   - tl;dr: This lecture reviews challenges of building a real-world ML system that scales.
-  - [COTA: Improving Uber Customer Care with NLP & Machine Learning](https://eng.uber.com/cota/)
-  - [Scaling Uber’s Customer Support Ticket Assistant (COTA) System with Deep Learning](https://eng.uber.com/cota-v2/)
+  - Blogs
+    - [COTA: Improving Uber Customer Care with NLP & Machine Learning](https://eng.uber.com/cota/)
+    - [Scaling Uber’s Customer Support Ticket Assistant (COTA) System with Deep Learning](https://eng.uber.com/cota-v2/)
+  - Papers
+    - [COTA: Improving the Speed and Accuracy of Customer Support through Ranking and Deep Networks](https://arxiv.org/pdf/1807.01337.pdf)
+  - Videos
+    - [Using NLP & Machine Learning to improve customer care at Uber, Huaixiu Zheng,20180418](https://www.youtube.com/watch?v=_l5wbgoLYTo)
 - Lecture 3: Machine Learning Systems: Challenges and Solutions
   - tl;dr: This lecture reviews reactive strategies to incorporate ML-based components into a larger system.
 - Lecture 4: Optimization and Neural Nets
