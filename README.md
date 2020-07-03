@@ -18,6 +18,7 @@ You are well qualified for doing research in AI/ML systems.
   - tl;dr: This lecture reviews course requirement, learning goals, policies, and expectations.
 - Lecture 2: Introduction to Machine Learning Systems (Uber Case Study)
   - tl;dr: This lecture reviews challenges of building a real-world ML system that scales.
+  - [COTA: Improving Uber Customer Care with NLP & Machine Learning](https://eng.uber.com/cota/)
 - Lecture 3: Machine Learning Systems: Challenges and Solutions
   - tl;dr: This lecture reviews reactive strategies to incorporate ML-based components into a larger system.
 - Lecture 4: Optimization and Neural Nets
