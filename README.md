@@ -27,6 +27,10 @@ You are well qualified for doing research in AI/ML systems.
     - [Using NLP & Machine Learning to improve customer care at Uber, Huaixiu Zheng,20180418](https://www.youtube.com/watch?v=_l5wbgoLYTo)
 - Lecture 3: Machine Learning Systems: Challenges and Solutions
   - tl;dr: This lecture reviews reactive strategies to incorporate ML-based components into a larger system.
+  - Books
+    - [Machine Learning Systems: Designs that scale](https://www.manning.com/books/machine-learning-systems)
+  - Videos
+    - [Reactive Machine Learning On and Beyond the JVM by Jeff Smith](https://www.youtube.com/watch?v=akPLphTykwI)
 - Lecture 4: Optimization and Neural Nets
   - tl;dr: This lecture builds the foundation of optimization and deep learning.
 - Lecture 5: Learning Theory
