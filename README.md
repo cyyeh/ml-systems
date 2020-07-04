@@ -49,10 +49,19 @@ You are well qualified for doing research in AI/ML systems.
   - tl;dr: This lecture discusses DNN model compression techniques.
 - Lecture 12: Machine Learning Platforms
   - tl;dr: This lecture reviews a platform that facilitates building an ML pipeline in production at scale.
+  - Blogs
+    - [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/)
+  - Videos
+    - [UBER : Big Data Infrastructure and Machine Learning Platform](https://www.youtube.com/watch?v=y3O94MnO_IU)
+    - [Michelangelo: Uber's machine learning platform - Achal Shah](https://www.youtube.com/watch?v=hGy1cM7_koM)
 - Lecture 13: Scalable Machine Learning
   - tl;dr: This lecture introduces variations of gradient descent and ideas how to it scale up using parallel computing.
 - Lecture 14: Distributed Machine Learning
   - tl;dr: This lecture introduces how to scale up deployment (over multiple nodes) to speed up training and inference.
+  - Blogs
+    - [Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)
+  - Code
+    - [Horovod](https://github.com/horovod/horovod)
 - Lecture 15: Recurrent Neural Networks
   - tl;dr: This lecture studies RNNs and LSTM architectures for predicting rare events.
 - Lecture 16: Intrinsic Dimension
