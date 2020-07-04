@@ -14,9 +14,9 @@ You are well qualified for doing research in AI/ML systems.
 
 ## Lectures
 
-- Lecture 1: Course Introduction: Machine Learning Systems
+- Lecture 0: Course Introduction: Machine Learning Systems
   - tl;dr: This lecture reviews course requirement, learning goals, policies, and expectations.
-- Lecture 2: Introduction to Machine Learning Systems (Uber Case Study)
+- Lecture 1: Introduction to Machine Learning Systems (Uber Case Study)
   - tl;dr: This lecture reviews challenges of building a real-world ML system that scales.
   - Blogs
     - [COTA: Improving Uber Customer Care with NLP & Machine Learning](https://eng.uber.com/cota/)
@@ -25,49 +25,47 @@ You are well qualified for doing research in AI/ML systems.
     - [COTA: Improving the Speed and Accuracy of Customer Support through Ranking and Deep Networks](https://arxiv.org/pdf/1807.01337.pdf)
   - Videos
     - [Using NLP & Machine Learning to improve customer care at Uber, Huaixiu Zheng,20180418](https://www.youtube.com/watch?v=_l5wbgoLYTo)
-- Lecture 3: Machine Learning Systems: Challenges and Solutions
+- Lecture 2: Machine Learning Systems: Challenges and Solutions
   - tl;dr: This lecture reviews reactive strategies to incorporate ML-based components into a larger system.
   - Books
     - [Machine Learning Systems: Designs that scale](https://www.manning.com/books/machine-learning-systems)
   - Videos
     - [Reactive Machine Learning On and Beyond the JVM by Jeff Smith](https://www.youtube.com/watch?v=akPLphTykwI)
-- Lecture 4: Optimization and Neural Nets
+- Lecture 3: Optimization and Neural Nets
   - tl;dr: This lecture builds the foundation of optimization and deep learning.
-- Lecture 5: Learning Theory
+- Lecture 4: Learning Theory
   - tl;dr: This lecture reviews basic concepts related to statistical learning theory (e.g., hypothesis space).
-- Lecture 6: Deep Convolutional Neural Networks
+- Lecture 5: Deep Convolutional Neural Networks
   - tl;dr: This lecture builds the foundation of deep learning systems.
-- Lecture 7: Deep Learning System Stack
+- Lecture 6: Deep Learning System Stack
   - tl;dr: This lecture reviews the full-stack deep learning system development.
-- Lecture 8: Backpropagation and Automatic Differentiation
+- Lecture 7: Backpropagation and Automatic Differentiation
   - tl;dr: This lecture reviews backprop and automatic differentiation.
-- Lecture 9: High-Performance Hardware for Deep Learning
+- Lecture 8: High-Performance Hardware for Deep Learning
   - tl;dr: This lecture reviews hardware backends for deep learning.
-- Lecture 10: Optimization and Performance Understanding of ML Systems
+- Lecture 9: Optimization and Performance Understanding of ML Systems
   - tl;dr: This lecture discusses performance optimization of machine learning systems.
-- Lecture 11: Lecture 10: Compressing Deep Neural Networks: Pruning and Quantization
+- Lecture 10: Compressing Deep Neural Networks: Pruning and Quantization
   - tl;dr: This lecture discusses DNN model compression techniques.
-- Lecture 12: Machine Learning Platforms
+- Lecture 11: Machine Learning Platforms
   - tl;dr: This lecture reviews a platform that facilitates building an ML pipeline in production at scale.
   - Blogs
     - [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/)
   - Videos
     - [UBER : Big Data Infrastructure and Machine Learning Platform](https://www.youtube.com/watch?v=y3O94MnO_IU)
     - [Michelangelo: Uber's machine learning platform - Achal Shah](https://www.youtube.com/watch?v=hGy1cM7_koM)
-- Lecture 13: Scalable Machine Learning
+- Lecture 12: Scalable Machine Learning
   - tl;dr: This lecture introduces variations of gradient descent and ideas how to it scale up using parallel computing.
-- Lecture 14: Distributed Machine Learning
+- Lecture 13: Distributed Machine Learning
   - tl;dr: This lecture introduces how to scale up deployment (over multiple nodes) to speed up training and inference.
   - Blogs
     - [Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)
   - Code
     - [Horovod](https://github.com/horovod/horovod)
-- Lecture 15: Recurrent Neural Networks
+- Lecture 14: Recurrent Neural Networks
   - tl;dr: This lecture studies RNNs and LSTM architectures for predicting rare events.
-- Lecture 16: Intrinsic Dimension
+- Lecture 15: Intrinsic Dimension
   - tl;dr: This lecture introduces the concept of instrinsic dimension and its implications for model compression.
-- Lecture 17: Transfer Learning
-  - tl;dr: This lecture discusses transfer learning to enable understanding performance of machine learning systems.
 
 ## Projects
 
