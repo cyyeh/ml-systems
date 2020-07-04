@@ -54,6 +54,7 @@ You are well qualified for doing research in AI/ML systems.
   - Videos
     - [UBER : Big Data Infrastructure and Machine Learning Platform](https://www.youtube.com/watch?v=y3O94MnO_IU)
     - [Michelangelo: Uber's machine learning platform - Achal Shah](https://www.youtube.com/watch?v=hGy1cM7_koM)
+    - [Michelangelo Palette: A Feature Engineering Platform at Uber](https://www.infoq.com/presentations/michelangelo-palette-uber/)
 - Lecture 12: Scalable Machine Learning
   - tl;dr: This lecture introduces variations of gradient descent and ideas how to it scale up using parallel computing.
 - Lecture 13: Distributed Machine Learning
@@ -77,3 +78,14 @@ You are well qualified for doing research in AI/ML systems.
   - tl;dr: How you can decrease latency of model serving by changing configurations such as caching?
 - Project 4: Accelerating Deep Reinforcement Learning
   - tl;dr: The aim of this project is to utilize computer system capability to accelerate training of Deep RL agents.
+
+## References
+
+- Technical Company Engineering Blogs
+  - [Uber](https://eng.uber.com/)
+  - [Airbnb](https://airbnb.io/)
+  - [Spotify](https://engineering.atspotify.com/)
+  - [Netflix](https://netflixtechblog.com/)
+  - [Coursera](https://medium.com/coursera-engineering)
+  - [Facebook](https://engineering.fb.com/)
+  - [Twitter](https://blog.twitter.com/engineering/en_us.html)
